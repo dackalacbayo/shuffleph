@@ -170,7 +170,7 @@ const Layout = () => (
     </FormGroup>
     <FormGroup className="text-mobile-align" check row>
       <Label sm={12}>
-        <Input type="radio" name="file" value="custom" required/> THE{" "}
+        <Input type="radio" name="file" value="custom"/> THE{" "}
         <span className="h4 bold">Shuffle</span>
       </Label>
       <Col sm={12}>
