@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "587a0d429ea0b102a0f514c8fe5c5849",
+        "contentDigest": "c2518e01ca2ffe034f29e75c572088b0",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -734,12 +734,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-21T00:34:26.713Z",
+      "buildTime": "2018-06-22T00:01:56.460Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "34b4bf2be6d54f20d699f514b7c408ae",
+        "contentDigest": "ffd699486b6f54f104e795982090440b",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1986,7 +1986,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b200a081903ce37a511d3113d3caeb0f",
+        "contentDigest": "9ca9c5619d4603bf3f8778f0275609b1",
         "mediaType": "application/javascript",
         "type": "File",
         "description": "File \"src\\pages\\makerspace.js\"",
@@ -1996,11 +1996,11 @@
       "absolutePath": "C:/Users/AGCUSER/Desktop/shuffleph/src/pages/makerspace.js",
       "relativePath": "pages/makerspace.js",
       "extension": "js",
-      "size": 8927,
-      "prettySize": "8.93 kB",
-      "modifiedTime": "2018-06-21T09:33:03.693Z",
+      "size": 8937,
+      "prettySize": "8.94 kB",
+      "modifiedTime": "2018-06-22T01:08:49.227Z",
       "accessTime": "2018-06-18T08:42:02.610Z",
-      "changeTime": "2018-06-21T09:33:03.693Z",
+      "changeTime": "2018-06-22T01:08:49.227Z",
       "birthTime": "2018-06-18T08:42:02.610Z",
       "root": "C:/",
       "dir": "C:/Users/AGCUSER/Desktop/shuffleph/src/pages",
@@ -2016,12 +2016,12 @@
       "rdev": 0,
       "ino": 1688849860889832,
       "atimeMs": 1529311322609.6936,
-      "mtimeMs": 1529573583693.1846,
-      "ctimeMs": 1529573583693.1846,
+      "mtimeMs": 1529629729227.2788,
+      "ctimeMs": 1529629729227.2788,
       "birthtimeMs": 1529311322609.6936,
       "atime": "2018-06-18T08:42:02.610Z",
-      "mtime": "2018-06-21T09:33:03.693Z",
-      "ctime": "2018-06-21T09:33:03.693Z",
+      "mtime": "2018-06-22T01:08:49.227Z",
+      "ctime": "2018-06-22T01:08:49.227Z",
       "birthtime": "2018-06-18T08:42:02.610Z"
     },
     "C:/Users/AGCUSER/Desktop/shuffleph/src/pages/my-files.js absPath of file": {
@@ -3092,7 +3092,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6fc037ebd09e376eb3f6ffe50a379d06",
+        "contentDigest": "6453c1c45af53b0f8ab19f0fa269b87b",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3113,7 +3113,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a3fa8c7d9af4dda36c7ec75c2fcb54df",
+        "contentDigest": "f878d9bbffe24bc09f6f17449973e87d",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3134,7 +3134,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "76d3494533fd79c57d982f030a48ef92",
+        "contentDigest": "dc6010dceb3c8500a121a6e6df9622b4",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3155,7 +3155,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "04a6a610bf6a60564753b236be695f28",
+        "contentDigest": "e2ad62442a3f964f3311f63142edbab1",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3176,7 +3176,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e1633d437f83a2adeb2cdea048e5cdfb",
+        "contentDigest": "cad34e2c0a5a128e7197551e4e6afa44",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3197,7 +3197,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "56512b4aef8014c1a27f1e27b116da61",
+        "contentDigest": "9ae2db11f9e9259225eb275e9370ba0c",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3218,7 +3218,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5b8f9b15ec861edb89ef10ae7da37514",
+        "contentDigest": "78ab300e29d6834442f55b2dd8bc7e1a",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3239,7 +3239,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f51a3212952aaf0c7e33379a983c654a",
+        "contentDigest": "3d1efe36d6e27cf33fc3f8ff9a84962e",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3260,7 +3260,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "958312f854c09171c75039a6b25bbb16",
+        "contentDigest": "d0887d59f9b285c704f71d151ccd61d6",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3281,7 +3281,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ff75cd0326a80892b3a3d926fdd91204",
+        "contentDigest": "c076c3f55539f170fae332a02d0b93d4",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3302,7 +3302,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cebca5fef2f9fbccc4b7bcfad8489167",
+        "contentDigest": "c0a44ba83645b9cb73757c1354e1c19c",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }

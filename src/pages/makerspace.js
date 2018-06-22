@@ -169,8 +169,8 @@ const Layout = () => (
       ))}
     </FormGroup>
     <FormGroup className="text-mobile-align" check row>
-      <Label sm={12} check>
-        <Input type="radio" name="setup" value="custom" /> THE{" "}
+      <Label sm={12} checked>
+        <Input type="radio" name="setup" value="custom" required/> THE{" "}
         <span className="h4 bold">Shuffle</span>
       </Label>
       <Col sm={12}>
