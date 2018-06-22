@@ -13,5 +13,6 @@ end: '10:00am'
 image:
   - images: /assets/images/default_image.png
   - images: /assets/images/shuffle.png
+  - images: /assets/images/abstract-background-blur-255379.jpg
 ---
 A 34 mins high intensity interval training. Targetting to sculpt key parts of your body with high intensity workout routine.
