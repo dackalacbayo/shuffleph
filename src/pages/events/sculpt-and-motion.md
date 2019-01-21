@@ -1,6 +1,6 @@
 ---
 templateKey: events
-title: Sculpt and Motions
+title: Sculpt and Motionsxx
 by: Karenn Fajardo
 date: 'March 19, 2018'
 dates:
