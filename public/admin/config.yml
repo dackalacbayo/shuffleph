@@ -22,9 +22,9 @@ collections:
       - {label: "Categories",
           name: "categories",
           widget: "list",
-          fields: [{label: Quote, 
-            name: quote, 
-            widget: object,
+          fields: [{label: Category, 
+            name: categoryname, 
+            widget: string,
             fields: [{
               label: "Descriptionss", 
               name: "descriptionss",
