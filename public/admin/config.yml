@@ -29,7 +29,12 @@ collections:
             fields: [{
               label: "Descriptionss", 
               name: "descriptionss",
-              widget: "list"
+              widget: "list",
+                fields: [{ 
+                   label: "Descriptionss", 
+                    name: "descriptionss",
+                    widget: "list"
+                  }]
                }]
             }]
           }
