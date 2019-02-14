@@ -33,7 +33,7 @@ collections:
                 fields: [{ 
                    label: "Descriptionssx", 
                     name: "descriptionssx",
-                    widget: "list"
+                    widget: "string"
                   }]
                }]
             }]
