@@ -23,7 +23,15 @@ collections:
       - {label: "Testimonials",
           name: "testimonials",
           widget: "list",
-          fields: [{label: Quote, name: quote, widget: string, default: "Everything is awesome!"}]
+          fields: [{label: Quote, 
+            name: quote, 
+            widget: list,
+            fields: [{
+              label: "Descriptionss", 
+              name: "descriptionss",
+              widget: "string"
+               }]
+            }]
           }
 
   - name: "events"
