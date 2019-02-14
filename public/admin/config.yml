@@ -19,7 +19,7 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Category", name: "categoryname", widget: " list", fields:[{label: "Appetizer", name: "item", widget: " list", fields:[{label: "Images", name: "images", widget: " list"}] }]}
+      - {label: "Category", name: "categoryname", widget: " list", fields:[{label: "Appetizer", name: "item", widget: " list" }]}
       - {label: Dates, name: dates, widget: list, fields:[{label: "Date", name: "date", widget: "date", default: "", format: "LL"}]}
 
   - name: "events"
