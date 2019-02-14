@@ -25,16 +25,14 @@ collections:
           fields: [{label: Category, 
             name: categoryname, 
             widget: string }]
-           fields: [{label: Sample, 
-            name: sample, 
-            widget: list,
-              fields: [{
-                label: Sample1, 
-                name: sample1, 
-                widget: list,
-              }]
-            }]
           }
+       - label: "Address"
+          name: "address"
+          widget: "object"
+          fields: 
+        - {label: "Street Address", name: "street", widget: "string"}
+        - {label: "City", name: "city", widget: "string"}
+        - {label: "Postal Code", name: "post-code", widget: "string"}
           
 
   - name: "events"
