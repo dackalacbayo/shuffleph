@@ -19,13 +19,12 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Category", name: "categoryname", widget: " list", fields:[{label: "Appetizer", name: "item", widget: " list" }]}
-      - {label: "Testimonials",
-          name: "testimonials",
+      - {label: "Categories",
+          name: "categories",
           widget: "list",
           fields: [{label: Quote, 
             name: quote, 
-            widget: list,
+            widget: object,
             fields: [{
               label: "Descriptionss", 
               name: "descriptionss",
