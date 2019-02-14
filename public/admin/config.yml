@@ -24,17 +24,15 @@ collections:
           widget: "list",
           fields: [{label: Category, 
             name: categoryname, 
-            widget: string,
-            fields: [{
-              label: "Descriptionss", 
-              name: "descriptionss",
-              widget: "list",
-                fields: [{ 
-                   label: "Descriptionssx", 
-                    name: "descriptionssx",
-                    widget: "string"
-                  }]
-               }]
+            widget: string }]
+           fields: [{label: Sample, 
+            name: sample, 
+            widget: list,
+              fields: [{
+                label: Sample1, 
+                name: sample1, 
+                widget: list,
+              }]
             }]
           }
           
