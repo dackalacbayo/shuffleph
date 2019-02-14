@@ -31,13 +31,14 @@ collections:
               name: "descriptionss",
               widget: "list",
                 fields: [{ 
-                   label: "Descriptionss", 
-                    name: "descriptionss",
+                   label: "Descriptionssx", 
+                    name: "descriptionssx",
                     widget: "list"
                   }]
                }]
             }]
           }
+          
 
   - name: "events"
     label: "Events"
