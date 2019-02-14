@@ -25,7 +25,7 @@ collections:
           widget: "list",
           fields: [{label: Quote, 
             name: quote, 
-            widget: string,
+            widget: list,
             fields: [{
               label: "Descriptionss", 
               name: "descriptionss",
