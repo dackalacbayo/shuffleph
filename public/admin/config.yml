@@ -20,7 +20,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Category", name: "categoryname", widget: " list", fields:[{label: "Appetizer", name: "item", widget: " list" }]}
-      - {label: Dates, name: dates, widget: list, fields:[{label: "Date", name: "date", widget: "date", default: "", format: "LL", fields:[{label: "Datesss", name: "datesss", widget: "datesss", default: "", format: "LL"}]}]}
+      - {label: Dates, name: dates, widget: list, fields:[{label: "Date", name: "date", widget: "list", default: "", fields:[{label: "Datesss", name: "datesss", widget: "datesss", default: "", format: "LL"}]}]}
 
   - name: "events"
     label: "Events"
