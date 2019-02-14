@@ -19,7 +19,8 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Language", name: "language", widget: "select", options: ["en", "es"]}
+      - {label: "Category", name: "categoryname", widget: " list", fields:[{label: "Appetizer", name: "item", widget: " list", fields:[{label: "Images", name: "images", widget: " list"}] }]}
+
 
   - name: "events"
     label: "Events"
