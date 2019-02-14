@@ -25,11 +25,11 @@ collections:
           widget: "list",
           fields: [{label: Quote, 
             name: quote, 
-            widget: list,
+            widget: string,
             fields: [{
               label: "Descriptionss", 
               name: "descriptionss",
-              widget: "string"
+              widget: "list"
                }]
             }]
           }
